@@ -303,7 +303,7 @@ html {
 
 .container-categories {
 	display: grid;
-	gap: 0.1rem;
+	gap: 2rem;
 }
 
 .card-category {

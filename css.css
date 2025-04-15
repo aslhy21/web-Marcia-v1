@@ -22,7 +22,7 @@ html {
 /* ********************************** */
 .container {
 	max-width: 120rem;
-	margin: 0 auto;
+	margin: 0 auto; 
 }
 
 .heading-1 {
@@ -43,6 +43,7 @@ html {
 	justify-content: space-between;
 	align-items: center;
 	padding: 2rem 0;
+	width:50%;
 }
 
 .customer-support {

@@ -304,6 +304,7 @@ html {
 .container-categories {
 	display: grid;
 	gap: 2rem;
+	border-radius: .5rem;
 }
 
 .card-category {
